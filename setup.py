@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 
 setup(name='kogpt2',
       version=__version__,
-      url='https://github.com/imsoncod/KoGPT2',
+      url='https://github.com/thingsflow/KoGPT2',
       license='midified MIT',
       author='Heewon Jeon',
       author_email='madjakarta@gmail.com',
